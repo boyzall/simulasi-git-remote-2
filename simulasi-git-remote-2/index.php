@@ -11,6 +11,10 @@
 <body>
     <h1>hello world</h1>
     <p>tambah paragraf</p>
+    <ul>
+        <li>a</li>
+        <li>b</li>
+    </ul>
 </body>
 
 </html>
